@@ -1,0 +1,86 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "BakingSoda1.arobject"
+    },
+    {
+      "filename" : "BakingSoda2.arobject"
+    },
+    {
+      "filename" : "BakingSoda3.arobject"
+    },
+    {
+      "filename" : "Cheetos1.arobject"
+    },
+    {
+      "filename" : "Cheetos2.arobject"
+    },
+    {
+      "filename" : "Cheetos3.arobject"
+    },
+    {
+      "filename" : "ChewyBar1.arobject"
+    },
+    {
+      "filename" : "ChewyBar2.arobject"
+    },
+    {
+      "filename" : "ChewyBar3.arobject"
+    },
+    {
+      "filename" : "Fritos1.arobject"
+    },
+    {
+      "filename" : "Fritos2.arobject"
+    },
+    {
+      "filename" : "Fritos3.arobject"
+    },
+    {
+      "filename" : "Lays1.arobject"
+    },
+    {
+      "filename" : "Lays2.arobject"
+    },
+    {
+      "filename" : "Lays3.arobject"
+    },
+    {
+      "filename" : "merged_BakingSoda.arobject"
+    },
+    {
+      "filename" : "merged_bottle.arobject"
+    },
+    {
+      "filename" : "merged_cereal.arobject"
+    },
+    {
+      "filename" : "merged_Cheetos.arobject"
+    },
+    {
+      "filename" : "merged_ChewyBar.arobject"
+    },
+    {
+      "filename" : "merged_Fritos.arobject"
+    },
+    {
+      "filename" : "merged_Lays.arobject"
+    },
+    {
+      "filename" : "merged_Nutrition.arobject"
+    },
+    {
+      "filename" : "Nutrition1.arobject"
+    },
+    {
+      "filename" : "Nutrition2.arobject"
+    },
+    {
+      "filename" : "Nutrition3.arobject"
+    }
+  ]
+}

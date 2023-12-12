@@ -1,0 +1,54 @@
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "0AG-Hz-HCP"; */
+"0AG-Hz-HCP.title" = "Done";
+
+/* Class = "UITextField"; placeholder = "Enter name of the item"; ObjectID = "62X-VV-DvB"; */
+"62X-VV-DvB.placeholder" = "Enter name of the item";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "7cl-40-m1f"; */
+"7cl-40-m1f.title" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9oy-Nx-m0v"; */
+"9oy-Nx-m0v.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "DWN-hd-Npf"; */
+"DWN-hd-Npf.normalTitle" = "Button";
+
+/* Class = "UIBarButtonItem"; title = "Items"; ObjectID = "F5K-Su-Kk8"; */
+"F5K-Su-Kk8.title" = "Items";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "HN0-Ba-GoM"; */
+"HN0-Ba-GoM.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KNl-YE-5Ux"; */
+"KNl-YE-5Ux.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Wjh-OT-3IC"; */
+"Wjh-OT-3IC.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "Settings"; ObjectID = "XnO-f7-hzT"; */
+"XnO-f7-hzT.title" = "Settings";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "di5-bZ-MiU"; */
+"di5-bZ-MiU.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Play"; ObjectID = "g6n-je-Nlu"; */
+"g6n-je-Nlu.normalTitle" = "Play";
+
+/* Class = "UISearchBar"; placeholder = "Enter item name"; ObjectID = "gNv-nk-YcU"; */
+"gNv-nk-YcU.placeholder" = "Enter item name";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "lMg-gN-F1d"; */
+"lMg-gN-F1d.normalTitle" = "Button";
+
+/* Class = "UINavigationItem"; title = "Food Items "; ObjectID = "wO0-b9-mGQ"; */
+"wO0-b9-mGQ.title" = "Food Items ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "y26-Vv-J5q"; */
+"y26-Vv-J5q.normalTitle" = "Button";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "yIO-xb-arx"; */
+"yIO-xb-arx.title" = "Back";
+
+/* Class = "UINavigationItem"; title = "Add Item"; ObjectID = "zUh-H2-Ois"; */
+"zUh-H2-Ois.title" = "Add Item";
